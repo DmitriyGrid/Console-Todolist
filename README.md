@@ -17,8 +17,9 @@
 ---
 
 ## ⚙️ Требования
-- Python **3.x**
 - Поддержка: **Windows / Linux / macOS**
+- Для запуска требуется **Python 3.x.**
+- Скачать можно здесь:  https://www.python.org/downloads/
 
 ---
 
